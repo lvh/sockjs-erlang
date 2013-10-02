@@ -55,8 +55,9 @@ service_echo(_Conn, closed, state)        -> {ok, state}.
 
 Dig into the `examples` directory to get working code:
 
-  * https://github.com/sockjs/sockjs-erlang/examples/cowboy_echo.erl
-
+  * https://github.com/sockjs/sockjs-erlang/blob/master/examples/cowboy_echo.erl
+  * https://github.com/sockjs/sockjs-erlang/blob/master/examples/cowboy_test_server.erl
+  * https://github.com/sockjs/sockjs-erlang/tree/master/examples/multiplex
 
 How to run the examples?
 ------------------------
